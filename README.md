@@ -1,1 +1,2 @@
-# libpvm-plugin
+# Example libpvm plugin
+
